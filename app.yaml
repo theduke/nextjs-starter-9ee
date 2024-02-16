@@ -1,0 +1,3 @@
+kind: wasmer.io/App.v0
+name: theduke-nextjs-starter-9ee
+package: theduke/nextjs-starter-9ee
